@@ -12,15 +12,15 @@
 
 
 
+### Integrantes do Projeto	
 
+#### 	Breno Ferreira Santos 
 
-#### Breno Ferreira Santos 
+#### 	Caio Ferreira Santos
 
-#### Caio Ferreira Santos
+##### 	Douglas Brandão Suzart Rodrigues
 
-##### Douglas Brandão Suzart Rodrigues
+##### 	Gabriel Henrique Fragoso Gonçalves
 
-##### Gabriel Henrique Fragoso Gonçalves
-
-##### Genilson Do Carmo Silva 
+##### 	Genilson Do Carmo Silva 
 
