@@ -32,7 +32,7 @@ alimentos doces.
 
 **BackEnd:**  HTML, NodeJS.
 
-**FrontEnd:** JavaScript, HTML, CSS, React, Android Studio.
+**FrontEnd:** JavaScript, HTML, CSS, React, React Native.
 
 **Banco de Dados:**  Mongo DB, SQLServer.
 
