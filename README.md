@@ -22,13 +22,13 @@
 
 ### Tecnologias usadas no Projeto
 
-**BackEnd:**  ?
+**BackEnd:**  HTML, NodeJS.
 
-**FrontEnd:** React, Android Studio.
+**FrontEnd:** JavaScript, HTML, CSS, React, Android Studio.
 
-**Banco de Dados:**  ?
+**Banco de Dados:**  Mongo DB, SQLServer.
 
-**Infra do Projeto:** (buscar por planos gratuitos: Heroku, AWS, Google, Azure).
+**Infra do Projeto:**  Heroku.
 
 ------
 
