@@ -1,6 +1,14 @@
 # 					To no Lucro 💸
 
-****
+#### Descrição.
+
+​	Projeto novo, baseado em uma necessidade de uma amiga que cozinha e vende
+
+alimentos doces.
+
+------
+
+
 
 ## 	Descrição das funcionalidades.
 
