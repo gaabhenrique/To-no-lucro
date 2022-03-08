@@ -30,11 +30,11 @@ alimentos doces.
 
 ### Tecnologias usadas no Projeto
 
-**BackEnd:**  HTML, NodeJS.
+**BackEnd:**  HTML e NodeJS.
 
-**FrontEnd:** JavaScript, HTML, CSS, React, React Native.
+**FrontEnd:** JavaScript, HTML, CSS, React e React Native.
 
-**Banco de Dados:**  Mongo DB, SQLServer.
+**Banco de Dados:**  Mongo DB, SQLServer(alternativa).
 
 **Infra do Projeto:**  Heroku.
 
