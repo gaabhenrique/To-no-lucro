@@ -56,6 +56,12 @@ alimentos doces.
 
 ------
 
+ **Diagrama de Caso de Uso UML :**
+
+https://lucid.app/lucidchart/8b3233aa-d366-46eb-a4a5-d8b87d22e6a7/edit?invitationId=inv_8dc3c22e-b3aa-4bfb-abbd-53e9d50b8351&page=0_0#
+
+------
+
 
 
 ### Integrantes do Projeto	
