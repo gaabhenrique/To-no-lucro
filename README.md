@@ -1,4 +1,4 @@
-<img src="C:\Tudo Git\To-no-lucro\img\LOGO.png" style="zoom:50%;" />
+<img src="https://github.com/gaabhenrique/To-no-lucro/blob/main/img/LOGO.png?raw=true" alt="LOGO.png" style="zoom:55%;" />
 
 #### Descrição.
 
