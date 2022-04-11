@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="506.569" height="91" viewBox="0 0 506.569 91">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#dedede"/>
+      <stop offset="1" stop-color="#6f7770" stop-opacity="0.988"/>
+    </linearGradient>
+    <filter id="Icon_awesome-money-bill-alt" x="376" y="9" width="130.569" height="81.362" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#949493" flood-opacity="0.929"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Icon_awesome-money-bill-alt-2" x="376" y="9" width="130.569" height="81.362" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#040400" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="To_no_Lu_ro_" x="0" y="0" width="424" height="91" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-color="#161616" result="color-2"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-3"/>
+      <feComposite operator="in" in="color-2"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="LOGO" transform="translate(1)">
+    <g data-type="innerShadowGroup">
+      <g transform="matrix(1, 0, 0, 1, -1, 0)" filter="url(#Icon_awesome-money-bill-alt)">
+        <path id="Icon_awesome-money-bill-alt-3" data-name="Icon awesome-money-bill-alt" d="M61.913,41.461H59.1V26.941a1.365,1.365,0,0,0-1.407-1.32H55.3a4.416,4.416,0,0,0-2.341.665l-2.7,1.686a1.27,1.27,0,0,0-.39,1.83L51.437,32a1.464,1.464,0,0,0,1.951.366l.083-.051v9.148H50.656a1.365,1.365,0,0,0-1.407,1.32v2.64a1.365,1.365,0,0,0,1.407,1.32H61.913a1.365,1.365,0,0,0,1.407-1.32v-2.64A1.365,1.365,0,0,0,61.913,41.461ZM106.941,4.5H5.628A5.463,5.463,0,0,0,0,9.78v52.8a5.463,5.463,0,0,0,5.628,5.28H106.941a5.463,5.463,0,0,0,5.628-5.28V9.78A5.463,5.463,0,0,0,106.941,4.5ZM8.443,59.942V49.381c6.218,0,11.257,4.727,11.257,10.56Zm0-36.961V12.42H19.7C19.7,18.253,14.66,22.981,8.443,22.981ZM56.285,54.661c-9.326,0-16.885-8.275-16.885-18.481S46.959,17.7,56.285,17.7,73.17,25.974,73.17,36.181,65.607,54.661,56.285,54.661Zm47.842,5.28H92.87c0-5.833,5.039-10.56,11.257-10.56Zm0-36.961c-6.218,0-11.257-4.727-11.257-10.56h11.257Z" transform="translate(385 10.5)" opacity="0.55" fill="url(#linear-gradient)"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -1, 0)" filter="url(#Icon_awesome-money-bill-alt-2)">
+        <path id="Icon_awesome-money-bill-alt-4" data-name="Icon awesome-money-bill-alt" d="M61.913,41.461H59.1V26.941a1.365,1.365,0,0,0-1.407-1.32H55.3a4.416,4.416,0,0,0-2.341.665l-2.7,1.686a1.27,1.27,0,0,0-.39,1.83L51.437,32a1.464,1.464,0,0,0,1.951.366l.083-.051v9.148H50.656a1.365,1.365,0,0,0-1.407,1.32v2.64a1.365,1.365,0,0,0,1.407,1.32H61.913a1.365,1.365,0,0,0,1.407-1.32v-2.64A1.365,1.365,0,0,0,61.913,41.461ZM106.941,4.5H5.628A5.463,5.463,0,0,0,0,9.78v52.8a5.463,5.463,0,0,0,5.628,5.28H106.941a5.463,5.463,0,0,0,5.628-5.28V9.78A5.463,5.463,0,0,0,106.941,4.5ZM8.443,59.942V49.381c6.218,0,11.257,4.727,11.257,10.56Zm0-36.961V12.42H19.7C19.7,18.253,14.66,22.981,8.443,22.981ZM56.285,54.661c-9.326,0-16.885-8.275-16.885-18.481S46.959,17.7,56.285,17.7,73.17,25.974,73.17,36.181,65.607,54.661,56.285,54.661Zm47.842,5.28H92.87c0-5.833,5.039-10.56,11.257-10.56Zm0-36.961c-6.218,0-11.257-4.727-11.257-10.56h11.257Z" transform="translate(385 10.5)" fill="#fff" opacity="0.55"/>
+      </g>
+    </g>
+    <g data-type="innerShadowGroup">
+      <text id="To_no_Lu_ro_2" data-name="To no Lu¢ro " transform="translate(0 70)" fill="#828281" font-size="81" font-family="Garamond"><tspan x="0" y="0">To no Lu¢ro </tspan></text>
+      <g transform="matrix(1, 0, 0, 1, -1, 0)" filter="url(#To_no_Lu_ro_)">
+        <text id="To_no_Lu_ro_3" data-name="To no Lu¢ro " transform="translate(1 70)" fill="#fff" font-size="81" font-family="Garamond"><tspan x="0" y="0">To no Lu¢ro </tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
