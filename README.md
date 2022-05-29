@@ -62,6 +62,10 @@ https://lucid.app/lucidchart/8b3233aa-d366-46eb-a4a5-d8b87d22e6a7/edit?invitatio
 
 ------
 
+**Diagrama Modelo Conceitual**
+
+https://lucid.app/lucidchart/d21d1cd3-d36c-4356-be30-c2898350e172/edit?invitationId=inv_4fa94d5c-ad77-4e66-8433-cc247f789867&page=0_0#
+
 
 
 ### Integrantes do Projeto	
