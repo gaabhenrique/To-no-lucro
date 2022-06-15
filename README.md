@@ -34,25 +34,21 @@ alimentos doces.
 
 ![Code, develop, html, language, layout, markup, programming icon - Free download](https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-html-markup-develop-layout-language-120.png)![code, css, develop, language, layout, programming, style](https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-css-style-develop-layout-language-120.png)![code, command, develop, javascript, language, programming, software ](https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-120.png)
 
-![circle, js, node, node js, programming, round icon ](https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-110.png)![react, react native ](https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-110.png)![ícone heroku](https://cdn.icon-icons.com/icons2/2108/PNG/96/heroku_icon_130912.png)
+![circle, js, node, node js, programming, round icon ](https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-110.png)       ![react, react native ](https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-110.png)     ![ícone heroku](https://cdn.icon-icons.com/icons2/2108/PNG/96/heroku_icon_130912.png)
 
- ![code, development, logo, mongodb, programming ](https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-170.png)
+ ![code, development, logo, mongodb, programming ](https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-170.png) ![Figma, logo, brand icon - Free download on Iconfinder](https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-128.png)
 
 ------
 
+**Protótipo:** Figma
+
 **BackEnd:**  HTML e NodeJS. 
 
-
-
 **FrontEnd:** JavaScript , HTML, CSS, React e React Native.
-
-
 
 **Banco de Dados:**  Mongo DB, SQLServer (alternativo).
 
 **Infra do Projeto:**  Heroku.
-
-
 
 ------
 
@@ -65,6 +61,12 @@ https://lucid.app/lucidchart/8b3233aa-d366-46eb-a4a5-d8b87d22e6a7/edit?invitatio
 **Diagrama Modelo Conceitual**
 
 https://lucid.app/lucidchart/d21d1cd3-d36c-4356-be30-c2898350e172/edit?invitationId=inv_4fa94d5c-ad77-4e66-8433-cc247f789867&page=0_0#
+
+------
+
+**Protótipo Figma**
+
+https://www.figma.com/file/z0i7zPkVkmF92Yk7W6CAKA/To-no-Lucro
 
 
 
