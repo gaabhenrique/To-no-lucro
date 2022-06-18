@@ -2,11 +2,9 @@
 
 #### Descrição.
 
-​	Projeto novo, baseado em uma necessidade de uma amiga que cozinha e vende
+​	Projeto novo, baseado em uma necessidade de uma amiga que cozinha e vende alimentos doces.
 
-alimentos doces.
-
-​	Esse App vai mostrar o gasto nas comprar dos ingredientes e o lucro real das vendas.
+​	Este app mostra o gasto nas compras dos ingredientes e o lucro real das vendas.
 
 ------
 
